@@ -1,2 +1,4 @@
 *.vec
 *.zip
+model/
+var.pick
